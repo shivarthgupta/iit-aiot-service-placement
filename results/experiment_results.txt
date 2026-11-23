@@ -1,0 +1,11 @@
+Experiment 1: Initial Baseline vs PPO
+
+Number of episodes: 10
+Services per episode: 20
+Total requests: 200
+
+                 Baseline       PPO
+------------------------------------------
+Success Rate      81.50%        54.50%
+Avg Latency       40.74 ms       38.35 ms
+Reliability      0.9029         0.8978
